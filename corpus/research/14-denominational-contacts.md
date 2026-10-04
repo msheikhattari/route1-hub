@@ -1,0 +1,20 @@
+# Denominational / Catholic anti-trafficking contacts, Maryland (compiled 2026-10-04; VERIFIED on official pages unless noted)
+- **Catholic Charities Baltimore – Esperanza Center, Victim Services (anti-trafficking):** direct line **667-600-2906** (name not public); main 667-600-2900, 430 S. Broadway. https://cc-md.org/programs/esperanza-center/
+- **Archdiocese of Baltimore Office of Life, Justice & Peace:** Collin Kourtz, Director; Respect Life Office 410-547-5537, life@archbalt.org. No named trafficking point person.
+- **Maryland Catholic Conference:** 410-269-1155, mccoffice@mdcatholic.org; Jenny Kraska ED; Diane Frengel, Assoc. Dir. Respect Life Advocacy (diane@mdcatholic.org); Michelle Zelaya, Social & Economic Justice. Testified FAV on HB1348 (2026). Parish resources: susan@mdcatholic.org.
+- **Sisters of Bon Secours USA (Marriottsville, Howard County):** JPIC lists "Crying Out Against Human Trafficking" as a priority; coordinator name not public (older newsletters: Sr. Mary Beth Hamm, SSJ — unverified). Leadership office Carol Jessee carol.jessee@bonsecoursusa.org. **Bon Secours Retreat & Conference Center 410-442-3120 — church groups welcome (18+); a local retreat venue.**
+- **Alliance to End Human Trafficking (AEHT):** Katie Boller Gosewisch ED; **Christine Commerce, Program Director — Speaker's Bureau (4 weeks' notice; reply within 5 business days)**; **Marilyn Zigmund Luke, Director of Advocacy — based in Maryland** (marilyn@alliancetoendhumantrafficking.org); 267-332-7768. Maryland members: Sisters of Bon Secours, SSND Atlantic-Midwest (has a Human Trafficking Committee), Sisters of Mercy. Speaker form https://alliancetoendhumantrafficking.org/speaker-request/
+- **St. Louis Catholic Church, Clarksville:** Rev. Michael DeAscanis, Pastor; parishoffice@slcmd.org; (410) 531-6668. 2017 Araminta presentation (Catholic Medical Association guild). Social ministry lead not public.
+- **Baltimore-Washington Conference UMC (Fulton, Howard County):** **Courtney Morris, Justice Ministries Coordinator, cmorris@bwcumc.org, 410-309-3423**; Rev. Diane Dixon-Proctor, Peace with Justice Coordinator (trafficking a named priority; grants up to $2,000 due May 16). United Women in Faith BWC: Social Action Coordinator Miriam Williams.
+- **Glen Mar UMC (Ellicott City):** office@glenmarumc.org, 410-465-4995; serve page lists Grassroots, My Sister's Place, Bridges to Housing Stability, PATH — HopeWorks not listed (Jewels for Hope sale is held at Glen Mar per HopeWorks' events page).
+- **Bethany UMC (Ellicott City):** bumc@bethanyum.org, 410-465-2919; missions page: "Rehabilitating living space for victims of human trafficking." Sara Cochran not confirmed there.
+- **Episcopal Diocese of Maryland:** Rev. Randy Callender, Canon for Mission, rcallender@episcopalmaryland.org; no trafficking program.
+- **Presbytery of Baltimore:** Susan Krehbiel, Social Justice Consultant (skrehbiel@baltimorepresbytery.org); Rev. Dr. Michele Wallen, Missional & Community Engagement.
+- **Delaware-Maryland Synod ELCA:** Rev. Carla Christopher, Asst. to the Bishop for Justice Ministries (cchristopher@demdsynod.org); Lutheran Office of Public Policy Rev. Melody Hession-Sigmon. Cherish All Children (ELCA-rooted, MN) offers presentations for an honorarium.
+- **Baptist Convention of MD/DE:** Rev. Tom Stolle, ED/Compassion Ministries (tstolle@bcmd.org), 410-290-5290; no anti-trafficking ministry. Send Relief trafficking page gone.
+- **ACNA Diocese of the Mid-Atlantic:** info@anglicandoma.org; no trafficking ministry.
+- **Church of the Brethren (New Windsor):** Nathan Hosler, Office of Peacebuilding and Policy (nhosler@brethren.org); trafficking not on issue list.
+- **Mennonite:** MCC East Coast (EastCoast@mcc.org); Allegheny & Atlantic Coast conferences; no trafficking program.
+
+## Top leads
+1. Esperanza Center victim services 667-600-2906. 2. AEHT speaker bureau (Christine Commerce) + MD advocacy director Marilyn Zigmund Luke. 3. BWC Justice Ministries Coordinator Courtney Morris (Fulton) + Peace with Justice grant. 4. Bethany UMC missions team. 5. Maryland Catholic Conference (legislative alerts); Bon Secours RCC (retreat venue).

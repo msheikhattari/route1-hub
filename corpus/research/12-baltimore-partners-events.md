@@ -1,0 +1,14 @@
+# Baltimore-region partners: events, offers, contacts (compiled 2026-10-04)
+- **Araminta:** live site aramintausa.org (aramintafreedom.org cert expired). 443-934-0003; contact@aramintafreedom.org. Awaken Part 1 dates on Eventbrite (JS-rendered; unverified). Events page empty. Share the Light benefit: no 2026/27 date (2025 was Oct 1, Martin's West, with Elizabeth Smart). Prayer team Mon/Wed noon Zoom. **"Serve On Purpose" PDF (Mar 2026) for church small groups:** https://aramintausa.org/wp-content/uploads/2026/03/Serve-On-Purpose.pdf — gift-card drive (10–25), Love Bags, journals; drop-off by appointment with Volunteer Manager Pascale Lebrun-Gay, volunteers@aramintausa.org.
+- **TurnAround:** golf tournament Oct 19, 2026, Hunt Valley CC; no gala posted; Denim Day April; volunteers ksabater@turnaroundinc.org; **HT 101 for churches** communityengagement@turnaroundinc.org; Regional Navigator Julie Harrison.
+- **Catherine's Cottage:** Jaleesa Thomas 410-783-2920 ext. 50110; Samantha Bowman (volunteers/events) ext. 50103; Angel Tree/Red Kettle Nov–Dec; Howard County Service Center 3267 Pine Orchard Ln, Ellicott City, 443-656-3376.
+- **Baltimore City HT Collaborative:** meeting schedule unpublished; join via bchtc.org contact form.
+- **FAAST:** no dated trainings; Freedom Sunday any Sunday; Church Toolkit free (Advent guide — Advent begins Nov 29, 2026; Lent 2027 begins Feb 10); affiliate $100/yr with learning calls.
+- **MHTTF:** no events page; 2027 Lobby Day unposted; Feb 3, 2026 State House event was the closest analog. Howard County SAO hosts AG task-force quarterly meetings (professional).
+- **UMSSW PARI/MHTI:** MD Child Trafficking Awareness Conference Sept 16, 2026 (next ~Sept 2027).
+- **UMD SAFE Center:** request-a-training form; Donation Drive Tool Kit; volunteer app (PG/MoCo).
+- **Hon's Honey:** group volunteer days by request; marketplace 3433 S Hanover St; holiday pop-ups unverified.
+- **Institute for Survivor Care:** EquipU courses; NCCSE Oct 18–21, 2026.
+- **HopeWorks:** Jewels for Hope Nov 7, 2026 at Glen Mar Church (free); vigil Oct 22; volunteer apps Dec 1; workshop on request.
+- **Center for Hope (LifeBridge):** self-paced modules $25/yr; 410-601-HOPE.
+- Do not link safehouseofhope.org (spam).

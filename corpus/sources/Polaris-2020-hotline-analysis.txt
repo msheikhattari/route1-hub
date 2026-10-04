@@ -1,0 +1,897 @@
+Polaris Analysis of   1
+                      2
+                           Situations
+                           Demographics
+
+
+
+2020 Data from the
+                      4    Age at Entry into Exploitation
+                      5    Risk Factors/Vulnerabilities
+                      7
+
+
+National Human
+                           Recruitment Location
+                      9    Recruiter Type
+                      10   Recruitment Tactics
+
+
+
+Trafficking Hotline
+                      11   Access Points
+                      13   Exploiter Relationship to Victim
+                      15   Force, Fraud, and Coercion
+Situations
+
+
+
+
+                                                                                                                                                                                         2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+                                                                                        This table shows a breakdown of incidents by their Type as defined in Polaris’s report,
+ 2020 Form of Trafficking              # of Situations        % of Situations
+                                                                                        Typology of Modern Slavery: Defining Sex and Labor Trafficking in the United States.
+ Labor                                                1052                     10%      Note that while Type of trafficking is similar to the Venue/Industry values on the Trafficking
+ Other/Not Specified¹                                 1549                     15%
+                                                                                        Hotline website, there are some differences and so values may not perfectly match.
+
+ Sex                                                  7648                     72%
+                                                                                         2020 Typology                                       # of Situations     % of Situations
+ Sex and Labor                                         334                      3%
+                                                                                         Agriculture & Animal Husbandry                                     83                  0.8%
+ Total Trafficking Situations                       10583
+                                                                                         Arts & Entertainment                                               21                  0.2%
+                                                                                         Bars, Strip Clubs, and Cantinas                                   126                  1.2%
+                                                                                         Carnivals                                                           4                  0.0%
+                                                                                         Commercial Cleaning Services                                       17                  0.2%
+                                                                                         Construction                                                       65                  0.6%
+                                                                                         Domestic Work                                                     202                  1.9%
+                                                                                         Emerging Types                                                    132                  1.2%
+                                                                                         Escort Services                                                  1116                 10.5%
+                                                                                         Factories & Manufacturing                                          15                  0.1%
+                                                                                         Forestry & Logging                                                  6                  0.1%
+                                                                                         Health & Beauty Services                                           19                  0.2%
+                                                                                         Health Care                                                         9                  0.1%
+                                                                                         Hotels & Hospitality                                               23                  0.2%
+    To protect the identity of the people we serve, Polaris does not disclose
+   statistics related to venues, industries, victim information or signaler              Illicit Activities                                                122                  1.2%
+   information referenced fewer than three times. Note therefore that                    Illicit Massage, Health, & Beauty                                 626                  5.9%
+   missing data is either because it is redacted OR because the count is 0.
+                                                                                         Landscaping                                                        17                  0.2%
+                                                                                         No Type²                                                         5853                 55.3%
+                                                                                         Outdoor Solicitation                                              210                  2.0%
+¹ Situations where form of trafficking is “Other/Not Specified” typically occur when
+                                                                                         Peddling & Begging                                                 38                  0.4%
+a law enforcement agent or service provider contacts the Trafficking Hotline for
+resources and referrals but does not disclose details about the trafficking situation    Personal Sexual Servitude                                         295                  2.8%
+due to confidentiality. This category also includes incidents in which the person        Pornography                                                       939                  8.9%
+reporting the information references human trafficking but does not provide further
+detail regarding the presence of labor or commercial sex. These cases are often          Recreational Facilities                                             4                  0.0%
+submitted to the Trafficking Hotline through anonymous online tip reports.               Remote Interactive Sexual Acts                                     67                  0.6%
+² Situations where the trafficking type is No Type typically occur when the person       Residential-Based Commercial Sex                                  465                  4.4%
+reporting the information references either a specific form of trafficking but does
+not provide further detail regarding the business structure or operation of the          Restaurants & Food Service                                         49                  0.5%
+trafficking situation, or does not provide any information regarding the form of         Traveling Sales Crews                                              60                  0.6%
+trafficking information due to confidentiality.
+                                                                                         Total Trafficking Situations                                   10583
+
+                                                                                                                                                                                                                                    1
+Demographics
+
+
+
+
+                                                                                                                                                                                                2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+2020 Gender of Likely Victims by Form
+Form of Trafficking                           Labor                      Sex                Sex and Labor          Sex + Sex and Labor      Other/Not Specified               Overall
+
+                                         #            %            #            %            #           %            #            %            #           %             #             %
+
+Female                                    1010        28.2%         8750        80.7%            446     70.7%         9196        80.2%         1108        67.8%       11290          67.8%
+
+Gender Minorities³                                                     71        0.7%                                     73        0.6%            11        0.7%            86        0.5%
+
+Male                                      1371        38.3%            811       7.5%             63     10.0%            874       7.6%            140       8.6%         2383         14.3%
+
+Unknown                                   1200        33.5%         1204        11.1%            120     19.0%         1324        11.5%            375      22.9%         2899         17.4%
+
+Total Unique Victims                      3583                    10836                          631                  11467                      1634                    16658
+
+³ The value Gender Minorities includes transgender males, transgender females, and non-binary or gender non-conforming individuals. Situations where the likely victims’ gender was unstated
+or unclear due to conflicting information are recorded as Unknown.
+
+
+
+
+2020 Immigration Status of Likely Victims
+Form of Trafficking                           Labor                      Sex                Sex and Labor          Sex + Sex and Labor      Other/Not Specified               Overall
+
+                                         #            %            #            %            #           %            #            %            #           %             #             %
+
+Domestic (USC/LPR)                           86        2.4%            558       5.1%             40       6.3%           598      5.20%            67        4.1%            746       4.5%
+
+Foreign National                          2510        70.1%            426       3.9%            129     20.4%            555      4.80%            130       8.0%         3195         19.2%
+Unknown                                      987      27.5%         9852        90.9%            462     73.2%        10314       89.90%         1437        87.9%       12717          76.3%
+
+Total Unique Victims                      3583                    10836                          631                  11467                      1634                    16658
+
+This table shows the US immigration status of likely victims at the time of their first contact with Polaris. Domestic includes both US Citizens and Legal Permanent
+Residents, also frequently known as green card holders
+
+
+
+
+                                                                                                                                                                                                                                           2
+Demographics, continued
+
+
+
+
+                                                                                                                                                                                       2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+2020 Race/Ethnicity of Likely Victims
+Form of Trafficking                         Labor                     Sex               Sex and Labor        Sex + Sex and Labor     Other/Not Specified             Overall
+
+                                       #            %           #           %           #           %           #           %            #          %            #             %
+
+Native Hawaiian or Pacific Islander                                  6       0.1%                                    6       0.1%                                     8        0.0%
+
+Caribbean                                  10        0.3%            7       0.1%                                    9       0.1%                                    19        0.1%
+
+Middle Eastern                             29        0.8%           13       0.1%                                   13       0.1%                                    44        0.3%
+
+American Indian/Alaska Native/              5        0.1%           41       0.4%             3      0.5%           44       0.4%                                    51        0.3%
+Indigenous American
+
+Other                                      34        0.9%           25       0.2%                                   26       0.2%                                    62        0.4%
+
+African                                    43        1.2%           19       0.2%            23      3.6%           42       0.4%             9       0.6%           94        0.6%
+
+Multi-racial/Multi-ethnic                   4        0.1%           89       0.8%             4      0.6%           93       0.8%             4       0.2%           101       0.6%
+
+African American or Black                  63        1.8%           396      3.7%             8      1.3%           404      3.5%            12       0.7%           478       2.9%
+
+Caucasian or White                         33        0.9%           558      5.1%            16      2.5%           574      5.0%            19       1.2%           622       3.7%
+
+Asian                                      119       3.3%           533      4.9%            29      4.6%           562      4.9%            12       0.7%           693       4.2%
+
+Latinx                                  1710        47.7%           340      3.1%            47      7.4%           387      3.4%            42       2.6%        2139         12.8%
+
+Unknown                                 1533        42.8%       8902        82.2%           502     79.6%        9404       82.0%         1532       93.8%       12448         74.7%
+Total Number of Victims                 3583                   10836                        631                 11467                    1634                   16658
+
+
+
+
+Age at First Contact with Polaris - 2020 Only
+Form of Trafficking                         Labor                     Sex               Sex and Labor        Sex + Sex and Labor     Other/Not Specified             Overall
+
+                                       #            %           #           %           #           %           #           %            #          %            #             %
+
+Adult                                   2976        83.10%      5300        48.90%          334    52.90%        5634      49.10%            964   59.00%         9550         57.3%
+
+Minor                                      232      6.50%       3270        30.20%          138    21.90%        3408      29.70%            148     9.10%        3786         22.7%
+
+Unknown                                    375      10.50%      2266        20.90%          159    25.20%        2425      21.10%            522   31.90%         3322         19.9%
+
+Total Number of Victims                 3583                   10836                        631                 11467                    1634                   16658
+
+This table shows the age of likely victims at the time of their first contact with the Trafficking Hotline, which is not necessarily at the age when the exploitative situation
+began (see Age at Entry into Exploitation). Polaris uses the federal standard of 18 as the age of majority for all situations regardless of the laws in specific jurisdictions.
+All likely victims included as minors were reported by individuals with a high degree of confidence regarding the likely victim’s age. Given the significance of whether a
+likely victim is an adult or minor, if the actual age is unknown and the apparent age is close to the adult/minor boundary (ex. a likely victim is described as being 16-20),
+Unknown is selected.
+
+                                                                                                                                                                                                                                  3
+Age at Entry into Exploitation
+
+
+
+
+                                                                                                                                                                                   2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+“Age at Entry into Exploitation” refers to the age of likely victims when the first commercial sex act or the first time initiating labor/services occurred. This
+should not be confused with the age the likely victim was when they first contacted the Trafficking Hotline (Age at First Contact with Polaris).
+
+
+
+
+                                                                             2019-2020
+                                     2019                    2020            % Change
+                               #            %          #            %
+
+ Adult                             1419     6.4%           1462      8.8%                 37.1%
+
+ Minor                             5318     24.0%          4600     27.6%                 15.1%
+
+ Unknown                       15471        69.8%      10634        63.8%                 -8.5%
+
+ Total Number of Victims       22168                   16658
+
+
+
+
+ 2020 Only                          Labor                    Sex              Sex and Labor               Sex + Sex & Labor    Other/Not Specified            Overall
+                               #            %          #            %           #                 %         #          %          #          %           #              %
+
+ Adult                             730      20.4%          638       5.9%            53           8.4%          691     6.0%           41     2.5%           1462           8.8%
+
+ Minor                             295      8.2%           3936     36.3%           187           29.6%         4123   36.0%          192    11.8%           4600       27.6%
+
+ Unknown                           2561     71.5%          6291     58.1%           392           62.1%         6683   58.3%          1401   85.7%       10634          63.8%
+
+ Total Number of Victims        3583                   10836                        631                     11467                  1634                  16658
+
+
+
+
+                                                                                                                                                                                                                              4
+Risk Factors/Vulnerabilities
+
+
+
+
+                                                                                                                                                            2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+Risk factors and vulnerabilities that applied to the likely victims immediately prior to or at the time of entry into the trafficking situation.
+
+
+ Reported Year                                                               2019                                 2020                   19-20 Change
+                                                                       #                %                  #                 %
+ Adult with Legal Guardian/Conservator                                       23              0.4%                15              0.3%              -19.2%
+ Caretaker Involvement in Sexualized Industry                                79              1.3%                48              1.0%              -24.7%
+ Caretaker Substance Use Concern                                            146              2.5%               131              2.8%              11.2%
+ Child Welfare System Involvement                                           320              5.5%               233              4.9%               -9.8%
+ Criminal Record/Criminal History                                           293              5.0%               112              2.4%              -52.6%
+ Experienced Abuse/Violence (Non-Sexual)                                    186              3.2%               140              3.0%               -6.7%
+ Experienced Sexual Abuse/Violence                                          315              5.4%               244              5.2%               -4.0%
+ Foster Care                                                                177              3.0%               111              2.3%              -22.3%
+ Gang Involvement                                                            48              0.8%                29              0.6%              -25.1%
+ Gender/Romantic/Sexual Minority                                            179              3.1%               168              3.6%              16.3%
+ Illiterate or Semiliterate                                                   5              0.1%
+ Intellectual/Developmental Disability                                      107              1.8%               101              2.1%              17.0%
+ Juvenile Justice System Involvement                                         57              1.0%                35              0.7%              -23.9%
+ Mental Health Concern                                                      403              6.9%               350              7.4%               7.6%
+ Negligent/Absent Caretaker                                                 112              1.9%                65              1.4%              -28.1%
+ Physical Health Concern                                                    250              4.3%               156              3.3%              -22.7%
+ Prior Involvement in Sexualized Industry                                   219              3.7%               177              3.7%               0.2%
+ Recent Financial Debt                                                       26              0.4%                 4              0.1%              -80.9%
+ Recent Loss of Economic Provider                                            20              0.3%                20              0.4%              23.9%
+ Recent Migration/Relocation                                               2978             50.8%              2478              52.4%              3.1%
+ Recent Unemployment/Underemployment                                         28              0.5%                12              0.3%              -46.9%
+ Runaway/Homeless Youth                                                     501              8.5%               397              8.4%               -1.8%
+ Self-Reported Economic Hardship                                            104              1.8%               134              2.8%              59.7%
+ Substance Use Concern                                                      589             10.0%               448              9.5%               -5.7%
+ Unaccompanied Refugee Minor (URM)                                           33              0.6%                17              0.4%              -36.2%
+ Unstable Housing                                                           497              8.5%               423              8.9%               5.5%
+ Welfare System Involvement                                                  12              0.2%                 4              0.1%              -58.7%
+ Witnessed Abuse/Violence                                                    33              0.6%                22              0.5%              -17.4%
+
+ Total Number of Victims with Known Risk Factors/Vulnerabilities              5,862                               4,730
+
+                                                                                                                                                                                                       5
+Risk Factors/Vulnerabilities, continued
+
+
+
+
+                                                                                                                                                                                   2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+ 2020 Only                                          Labor                Sex           Sex and Labor        Sex + Sex & Labor     Other/Not Specified             Overall
+                                                #           %       #          %         #          %         #           %         #              %          #             %
+
+Adult with Legal Guardian/Conservator                                   14      0.7%                               14      0.6%                                   15        0.3%
+
+Caretaker Involvement in Sexualized Industry                            47      2.2%                               47      2.0%                                   48        1.0%
+
+Caretaker Substance Use Concern                      7       0.3%   122         5.7%                              123      5.3%          3             1.8%       131       2.8%
+
+Child Welfare System Involvement                    21       0.9%   193         9.1%         12      6.0%         205      8.8%          8             4.9%       233       4.9%
+
+Criminal Record/Criminal History                    24       1.1%       81      3.8%                               83      3.6%          5             3.0%       112       2.4%
+
+Experienced Abuse/Violence (Non-Sexual)             19       0.8%   113         5.3%          5      2.5%         118      5.1%          5             3.0%       140       3.0%
+
+Experienced Sexual Abuse/Violence                   15       0.7%   220        10.4%         10      5.0%         230      9.9%          4             2.4%       244       5.2%
+
+Foster Care                                          8       0.4%   100         4.7%                              100      4.3%          4             2.4%       111       2.3%
+
+Gang Involvement                                     6       0.3%       21      1.0%                               22      0.9%                                   29        0.6%
+
+Gender/Romantic/Sexual Minority                      9       0.4%   134         6.3%          9      4.5%         143      6.2%         16             9.8%       168       3.6%
+
+Intellectual/Developmental Disability                9       0.4%       71      3.3%         13      6.5%          84      3.6%          8             4.9%       101       2.1%
+
+Juvenile Justice System Involvement                                     33      1.6%                               33      1.4%                                   35        0.7%
+
+Mental Health Concern                               14       0.6%   292        13.7%         19      9.5%         311     13.4%         26         15.9%          350       7.4%
+
+Negligent/Absent Caretaker                           5       0.2%       57      2.7%          3      1.5%          60      2.6%                                   65        1.4%
+
+Physical Health Concern                             16       0.7%   112         5.3%          9      4.5%         121      5.2%         20         12.2%          156       3.3%
+
+Prior Involvement in Sexualized Industry             3       0.1%   168         7.9%          6      3.0%         174      7.5%                                   177       3.7%
+
+Recent Financial Debt                                                   3       0.1%                                3      0.1%                                    4        0.1%
+
+Recent Loss of Economic Provider                     3       0.1%       15      0.7%                               16      0.7%                                   20        0.4%
+
+Recent Migration/Relocation                    2077         92.3%   275        12.9%         88     44.2%         363     15.6%         38         23.2%      2478        52.4%
+
+Recent Unemployment/Underemployment                  4       0.2%       7       0.3%                                8      0.3%                                   12        0.3%
+
+Runaway/Homeless Youth                              12       0.5%   348        16.4%         27     13.6%         375     16.1%         10             6.1%       397       8.4%
+
+Self-Reported Economic Hardship                     82      3.6%        46      2.2%          5      2.5%          51      2.2%                                   134       2.8%
+
+Substance Use Concern                               24       1.1%   377        17.7%         31     15.6%         408     17.6%         16             9.8%   448           9.5%
+
+Unaccompanied Refugee Minor (URM)                    8       0.4%       6       0.3%                                7      0.3%                                   17        0.4%
+
+Unstable Housing                                    65      2.9%    305        14.4%         29     14.6%         334     14.4%         24         14.6%      423           8.9%
+
+Welfare System Involvement                                              4       0.2%                                4      0.2%                                    4        0.1%
+
+Witnessed Abuse/Violence                                                19      0.9%                               20      0.9%                                   22        0.5%
+
+Total Number of Victims with Known Risk              2251               2125                  199                  2324                      164                   4730
+Factors/Vulnerabilities
+
+
+   1st (top reported)               2nd        3rd
+                                                                                                                                                                                                                              6
+Recruitment Location
+
+
+
+
+                                                                                                                                    2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+Noteworthy or common types of locations that the recruitment of exploitative commercial sex or labor is known to occur.
+
+
+ Reported Year                                               2019                     2020                2019-2020 % Change
+                                                      #             %            #             %
+
+ Behavioral/Mental Health Facility                          18          1.3%           7           0.8%                    -34.1%
+ Bus Station/Train Station                                  12          0.8%           3           0.4%                    -57.6%
+ Detention Facility - Adult                                 25          1.7%          17           2.0%                    15.3%
+ Detention Facility - Immigration                            3          0.2%
+ Detention Facility - Juvenile                               7          0.5%           5           0.6%                    21.1%
+ Detention Facility - Other
+ Drug Rehabilitation Facility                               32          2.2%          15           1.8%                    -20.5%
+ Elementary School (Grades K-5)                              3          0.2%           3           0.4%                    69.5%
+ Group Home                                                 34          2.4%          12           1.4%                    -40.2%
+ High School (Grades 9-12)                                  42          2.9%          12           1.4%                    -51.6%
+ Institutional Shelter                                      70          4.9%          22           2.6%                    -46.7%
+ Internet - Dating Site                                    131          9.1%          64           7.6%                    -17.2%
+ Internet - Facebook                                       128          8.9%         170        20.1%                     125.2%
+ Internet - Instagram                                       95          6.6%         109        12.9%                      94.5%
+ Internet - Misc. Chat Rooms                                35          2.4%          28           3.3%                    35.6%
+ Internet - Other Mobile Apps                              110          7.7%         104        12.3%                      60.3%
+ Internet - Other/Not Specified                            394       27.4%           168        19.8%                      -27.7%
+ Middle School (Grades 6-8)                                  8          0.6%           7           0.8%                    48.3%
+ Private Foster Home                                        50          3.5%           3           0.4%                    -89.8%
+ School - Other/Not Specified                               54          3.8%          17           2.0%                    -46.6%
+ Street                                                    170       11.8%            89        10.5%                      -11.2%
+ Strip Club                                                 84          5.8%          27           3.2%                    -45.5%
+ Total Number of Victims with Known Location              1,436                      847
+
+ Total Facebook & Instagram                                210      14.60%           273       32.20%                     120.40%
+ Total Internet                                            846       58.9%           610        72.0%                      22.2%
+ Total School                                              106          7.4%          39           4.6%                    -37.6%
+ Total Detention Facility                                   36          2.5%          26           3.1%                    22.4%
+ Total Group & Foster Home                                  84          5.8%          15           1.8%                    -69.7%
+ Total Number of Victims with Known Location Type         1,436                      847
+                                                                                                                                                                               7
+Recruitment Location, continued
+
+
+
+
+                                                                                                                                                                   2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+                                                                                                               Sex +         Other/Not
+2020 Only                                              Labor                Sex           Sex and Labor     Sex & Labor      Specified            Overall
+                                                   #           %       #          %        #        %       #        %       #        %       #             %
+
+Behavioral/Mental Health Facility                                           6      0.9%                         6     0.9%                         7        0.8%
+
+Bus Station/Train Station                                                   3      0.5%                         3     0.4%                         3        0.4%
+
+Detention Facility - Adult                             12       7.4%        4      0.6%                         5     0.7%                        17        2.0%
+
+Detention Facility - Immigration
+
+Detention Facility - Juvenile                                               5      0.8%                         5     0.7%                         5        0.6%
+
+Detention Facility - Other
+
+Drug Rehabilitation Facility                            3       1.8%       10      1.5%                         12    1.8%                        15        1.8%
+
+Elementary School (Grades K-5)                                              3      0.5%                         3     0.4%                         3        0.4%
+
+Group Home                                                                 10      1.5%                         10    1.5%                        12        1.4%
+
+High School (Grades 9-12)                                                  11      1.7%                         12    1.8%                        12        1.4%
+
+Institutional Shelter                                   4       2.5%       16      2.5%                         17    2.5%                        22        2.6%
+
+Internet - Dating Site                                                     61      9.4%                         62    9.2%                        64        7.6%
+
+Internet - Facebook                                    75      46.0%       77     11.9%        12   41.4%       89   13.2%       6    60.0%   170       20.1%
+
+Internet - Instagram                                    3       1.8%   105        16.3%                      106     15.7%                    109       12.9%
+
+Internet - Misc. Chat Rooms                                                27      4.2%                         28    4.1%                        28        3.3%
+
+Internet - Other Mobile Apps                            5       3.1%       97     15.0%                         99   14.7%                        104   12.3%
+
+Internet - Other/Not Specified                         33      20.2%   129        20.0%        4    13.8%    133     19.7%                    168       19.8%
+
+Middle School (Grades 6-8)                                                  7      1.1%                         7     1.0%                         7        0.8%
+
+Private Foster Home                                                                                                                                3        0.4%
+
+School - Other/Not Specified                                               14      2.2%                         15    2.2%                        17        2.0%
+
+Street                                                 19      11.7%       69     10.7%                         70   10.4%                        89    10.5%
+
+Strip Club                                                                 26      4.0%                         26    3.9%                        27        3.2%
+
+Total Number of Victims with Known Location Type   163                 646                     29            675                 10           847
+
+
+
+
+   1st (top reported)               2nd    3rd
+                                                                                                                                                                                                              8
+Recruiter Type
+
+
+
+
+                                                                                                                                                                                                2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+The relationship(s) described between likely victims and their recruiter(s).
+
+ Reported Year                                                          2019                                       2020                            2019-2020 %Change
+                                                                #                      %                 #                         %
+
+ Dealer/Illicit Substance Provider                                   213                   3.7%                    121                     2.9%                      -20.7%
+
+ Employer                                                           1842                   31.9%                  1170                     28.2%                     -11.4%
+
+ Family Member/Caregiver                                            1234                   21.4%                  1303                     31.5%                     47.3%
+
+ Friend/Acquaintance/Coworker                                        493                   8.5%                    271                     6.5%                      -23.3%
+
+ International Marriage Broker
+
+ Intimate Partner                                                   1278                   22.1%                  1105                     26.7%                     20.6%
+
+ Labor Recruiter/Contractor                                          538                   9.3%                    150                     3.6%                      -61.1%
+
+ Landlord                                                               62                 1.1%                     65                     1.6%                      46.3%
+
+ Other Potential Victim                                              100                   1.7%                     39                     0.9%                      -45.6%
+
+ Smuggler                                                            350                   6.1%                     65                     1.6%                      -74.1%
+
+ Total Number of Victims with Known Recruiter Type                  5779                                          4142
+
+
+
+                                                                                                                                                   Other/Not
+ 2020 Only                                      Labor                        Sex              Sex and Labor        Sex + Sex & Labor               Specified                  Overall
+                                           #            %           #              %           #         %               #             %           #         %           #              %
+
+ Dealer/Illicit Substance Provider              4        0.3%           103         4.5%            13       8%              116       4.7%                                   121        2.9%
+
+ Employer                                  1081         68.8%            75         3.3%            14   8.3%                89        3.6%                               1170          28.2%
+
+ Family Member/Caregiver                       239      15.2%           947        41.5%            69   41.1%           1016      41.5%                50   38.8%        1303          31.5%
+
+ Friend/Acquaintance/Coworker                  26        1.7%           230        10.1%             6    3.6%               236       9.6%              9   7.0%             271        6.5%
+
+ International Marriage Broker
+
+ Intimate Partner                              76        4.8%           895        39.3%            66   39.3%               961   39.3%                69   53.5%        1105          26.7%
+
+ Labor Recruiter/Contractor                    145      9.2%                 4      0.2%                                      4        0.2%                                   150        3.6%
+
+ Landlord                                      17        1.1%            46         2.0%                                     48        2.0%                                   65         1.6%
+
+ Other Potential Victim                         4        0.3%            33         1.4%                                     35        1.4%                                   39         0.9%
+
+ Smuggler                                      34        2.2%            22         1.0%             7    4.2%               29        1.2%                                   65         1.6%
+
+ Total Number of Victims with Known        1572                      2280                          168                   2448                          129                4142
+ Recruiter Type
+
+
+    1st (top reported)               2nd       3rd
+                                                                                                                                                                                                                                           9
+Recruitment Tactics
+
+
+
+
+                                                                                                                                                                                           2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+The behaviors employed by potential recruiters and/or exploiters/traffickers to initially entice a likely victim into commercial sex or labor or services.
+
+
+ Reported Year                                                     2019                                            2020                     2019-2020 % Change
+                                                          #                       %                        #                  %
+
+ Abduction                                                        356                     5.2%                  279                 5.7%                     10.6%
+
+ Coercion (Threats, Blackmail, etc.)                              355                     5.2%                  190                 3.9%                    -24.5%
+
+ False Promises/Fraud                                         1293                     18.8%                    311                 6.4%                    -66.1%
+
+ Familial                                                     1218                     17.7%                   1211                 24.9%                    40.3%
+
+ Intimate Partner/Marriage Proposition                        1281                     18.7%                   1110                 22.8%                    22.2%
+
+ Job Offer/Advertisement                                      3193                     46.5%                   1713                 35.2%                   -24.3%
+
+ Posing as Benefactor                                             642                     9.4%                  453                 9.3%                     -0.5%
+
+ Smuggling-Related                                                353                     5.1%                  109                 2.2%                    -56.4%
+
+ Total Number of Victims with Known                           6866                                             4867
+ Recruitment Tacitics
+
+
+
+
+                                                                                                                             Sex +               Other/Not
+ 2020 Only                                        Labor                       Sex                Sex and Labor            Sex & Labor            Specified               Overall
+                                             #            %             #             %           #            %          #            %         #          %        #             %
+
+ Abduction                                       20        1.1%             227        8.5%           10        4.3%          237       8.2%         22     15.0%        279        5.7%
+
+ Coercion (Threats, Blackmail, etc.)             37        2.0%             135        5.1%           17        7.3%          152       5.2%                             190        3.9%
+
+ False Promises/Fraud                            157      8.6%              124        4.7%           26       11.2%          150       5.2%         4       2.7%        311        6.4%
+
+ Familial                                        136      7.4%              958       36.0%           69       29.6%       1027       35.5%          50     34.0%    1211          24.9%
+
+ Intimate Partner/Marriage Proposition           72        3.9%             906       34.0%           62       26.6%          968     33.4%          71     48.3%    1110          22.8%
+
+ Job Offer/Advertisement                     1473         80.5%             184        6.9%           54       23.2%          238       8.2%                         1713          35.2%
+
+ Posing as Benefactor                            74        4.0%             339       12.7%           36       15.5%          375      12.9%         4       2.7%        453        9.3%
+
+ Smuggling-Related                               63        3.4%             27         1.0%           16        6.9%          43        1.5%         3       2.0%        109        2.2%
+
+ Total Number of Victims with Known                1830                      2663                      233                     2896                   147                 4867
+ Recruitment Tacitics
+
+
+
+
+    1st (top reported)                 2nd   3rd
+                                                                                                                                                                                                                 10
+Access Points
+
+
+
+
+                                                                                                                                                          2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+The systems, institutions, or people the likely victim of trafficking interacted with or had access to during the exploitative situation or immediately
+after/upon escape. Access Points are recorded even if the likely victim did not utilize them as a means of escape from their situation.
+
+
+
+ Reported Year                                                      2019                               2020                    2019-2020 % Change
+                                                              #              %                  #                 %
+
+                                     Access to Education          350             7.0%                188              4.6%                      -34.7%
+
+                       Access to General Social Services          434             8.7%                517             12.6%                      44.7%
+
+                               Access to Health Services          906            18.2%                767             18.7%                       2.9%
+
+                   Access to Mobile Apps/Social Media             491             9.9%                438             10.7%                       8.4%
+
+                                        Access to Shelter         336             6.7%                273              6.7%                       -1.3%
+
+                                Access to Transportation          257             5.2%                131              3.2%                      -38.1%
+
+                   Interaction w Civil Justice/Legal Help         364             7.3%                117              2.9%                      -60.9%
+
+  Interaction w Law Enforcement/Criminal Justice System           1317           26.5%                960             23.4%                      -11.4%
+
+                   Interaction with Child Welfare System          484             9.7%                327              8.0%                      -17.9%
+
+                    Interaction with Financial Institutions        39             0.8%                 10              0.2%                      -68.8%
+
+                         Interaction with Friends/Family          1856           37.3%               1628             39.7%                       6.6%
+
+                   Interaction with Religious Community            90             1.8%                 73              1.8%                       -1.5%
+
+                     Potential Buyer of Commercial Sex            242             4.9%                157              3.8%                      -21.2%
+
+   Total Number of Victims with Known Access Points                 4979                                4098
+
+
+
+
+                                                                                                                                                                                11
+Access Points, continued
+
+
+
+
+                                                                                                                                                                        2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+                                                                                                               Sex +            Other/Not
+2020 Only                                           Labor                 Sex           Sex and Labor       Sex & Labor         Specified              Overall
+                                                #           %       #           %        #          %       #           %       #          %       #             %
+
+Access to Education                                 54      10.0%       120      4.1%         9      6.0%       129      4.2%       5       1.0%       188       4.6%
+
+Access to General Social Services               105         19.5%       191      6.6%        13      8.7%       204      6.7%    209       40.5%       517     12.6%
+
+Access to Health Services                           65      12.1%   547         18.9%        20     13.4%    567        18.6%    136       26.4%   767         18.7%
+
+Access to Mobile Apps/Social Media                  21       3.9%       398     13.7%         7      4.7%       405     13.3%       12      2.3%       438     10.7%
+
+Access to Shelter                                   29       5.4%       181      6.2%        11      7.4%       192      6.3%       52     10.1%       273       6.7%
+
+Access to Transportation                            21       3.9%       77       2.7%         4      2.7%       81       2.7%       30      5.8%       131       3.2%
+
+Interaction w Civil Justice/Legal Help              49       9.1%       38       1.3%        10      6.7%       48       1.6%       20      3.9%       117       2.9%
+
+Interaction w LE/Criminal Justice System        103         19.1%   691         23.8%        53     35.6%    744        24.4%    113       21.9%   960         23.4%
+
+Interaction with Child Welfare System               25       4.6%       275      9.5%        14      9.4%       289      9.5%       14      2.7%       327       8.0%
+
+Interaction with Financial Institutions             4        0.7%        6       0.2%                            6       0.2%                          10        0.2%
+
+Interaction with Friends/Family                 174         32.3%   1317        45.4%        61     40.9%   1378        45.2%       76     14.7%   1628        39.7%
+
+Interaction with Religious Community                28       5.2%       40       1.4%                           41       1.3%       4       0.8%       73        1.8%
+
+Potential Buyer of Commercial Sex                                       150      5.2%         7      4.7%       157      5.1%                          157       3.8%
+
+Total Number of Victims with Known                   538                 2900                 149                3049                516                4098
+Access Points
+
+
+
+
+   1st (top reported)                     2nd   3rd
+                                                                                                                                                                                              12
+Exploiter Relationship to Victim
+
+
+
+
+                                                                                                                                          2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+The relationship(s) described between likely victims and their exploiter; relationships are defined by how the likely victim defined or
+would likely define their relationship with their exploiter.
+
+
+                                                                                                                   2019-2020 %
+                                                                2019                            2020                 Change
+                                                       #                     %            #            %
+
+    CSEC: No Controller                                       175                  2.6%       110          2.1%             -17%
+
+    Dealer/Illicit Substance Provider                         206                  3.0%       176          3.4%             13%
+
+    Employer                                                 3091                 45.1%       2367         45.6%             1%
+
+    Familial Relationship to Victim(s)                       1207                 17.6%       1207         23.2%            32%
+
+    Foster Parent of Victim(s)                                 28                  0.4%        28          0.5%             32%
+
+    Intimate Partner of Victim(s)                            1334                 19.5%       1151         22.2%            14%
+
+    Landlord                                                   67                  1.0%        75          1.4%             48%
+
+    No Other Relationship  4
+                                                              497                  7.3%        75          1.4%             -80%
+
+    Recruiter (Non-Employer)                                  372                  5.4%        75          1.4%             -73%
+
+    Smuggler                                                  306                  4.5%        57          1.1%             -75%
+
+    Total Number of Victims with Known                          6848                            5195
+    Exploiter Relationship
+
+
+
+4
+ “No Other Relationship” is selected when survivors have identified their trafficker’s
+role solely as an individual who trafficked/exploited them and did not experience any
+alternative form of attachment to the potential trafficker (i.e. not a family member,
+employer, intimate partner, etc).
+
+
+
+
+                                                                                                                                                                13
+Exploiter Relationship to Victim, continued
+
+
+
+
+                                                                                                                                                                                          2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+                                                                                                                                                 Other/Not
+                                                     Labor                        Sex                 Sex and Labor       Sex + Sex & Labor      Specified              Overall
+                                                #             %             #            %             #          %          #           %       #          %       #             %
+
+    CSEC: No Controller                                                         110       4.7%                                   110      4.2%                          110        2.1%
+
+    Dealer/Illicit Substance Provider                 5        0.2%             140       5.9%             29     11.2%          169      6.4%                          176        3.4%
+
+    Employer                                     2124        86.7%              169       7.1%             73     28.3%          242     9.2%                       2367          45.6%
+
+    Familial Relationship to Victim(s)              143        5.8%             948     40.1%              67     26.0%      1015        38.7%       51     39.2%   1207          23.2%
+
+    Foster Parent of Victim(s)                        8        0.3%              17       0.7%              3      1.2%           20      0.8%                          28         0.5%
+
+    Intimate Partner of Victim(s)                   81         3.3%             910     38.5%              88     34.1%          998     38.0%       73     56.2%   1151          22.2%
+
+    Landlord                                         20        0.8%              52       2.2%              3      1.2%           55      2.1%                          75         1.4%
+
+    No Other Relationship  5
+                                                                                 70       3.0%                                    71      2.7%       4      3.1%        75         1.4%
+
+    Recruiter (Non-Employer)                         67        2.7%               8       0.3%                                     8      0.3%                          75         1.4%
+
+    Smuggler                                         34        1.4%              14       0.6%              6      2.3%           20      0.8%        3      2.3%       57         1.1%
+
+    Total Number of Victims with                     2450                        2365                       258                   2623                130                5195
+    Known Exploiter Relationship
+
+
+5
+ “No Other Relationship” is selected when survivors have identified their trafficker’s role solely
+as an individual who trafficked/exploited them and did not experience any alternative form of
+attachment to the potential trafficker (i.e. not a family member, employer, intimate partner, etc).
+
+
+
+
+      1st (top reported)                 2nd        3rd
+                                                                                                                                                                                                                14
+Force, Fraud, and Coercion (grouped)
+
+
+
+
+                                                                                                                                                                         2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+“Force, Fraud, and Coercion” refers to the methods of control and abuse frequently employed by traffickers to compel a likely victim to remain in the
+trafficking situation. These tables group more specific methods of FFC into their overarching categories for ease of analysis:
+• Economic Abuse includes, but is not limited to: taking/withholding earnings, limiting access to finances, blacklisting (or threatening to), and debts/quotas.
+• Emotional Abuse includes, but is not limited to: verbal abuse or manipulation, familial-based emotional abuse, and intimate partner-based emotional abuse.
+• Intimidation includes, but is not limited to: destruction of property, harming others or animals, and displaying weapons.
+• Isolation includes, but is not limited to: limiting access to support systems, controlling in public, confinement, and limiting access to medical services.
+• Threats include, but are not limited to: threats to harm the likely victim, their family, or others, threats to expose or shame the likely victim, threats to report
+     to immigration/threats of deportation, and threats to report to law enforcement.
+
+                                                                                                                           2019-2020 %
+                                                               2019                                2020                      Change
+                                                         #                 %                 #                %
+
+    Economic Abuse                                           4307              27.3%             2989             24.7%                  -9%
+
+    Emotional Abuse                                          4517              28.6%             3287             27.2%                  -5%
+
+    Excessive Working Hours                                  2202              14.0%             1439             11.9%                 -15%
+
+    Fraud/Misrepresentation of Job                           1043              6.6%               951             7.9%                   19%
+
+    Induces/Exploits Substance Abuse Issues                  2217              14.1%             1532             12.7%                 -10%
+
+    Intimidation                                             2359              15.0%             1457             12.1%                 -19%
+
+    Isolation                                                3340              21.2%             2543             21.0%                  -1%
+
+    Manipulation of Language Barrier                          352              2.2%               167             1.4%                  -38%
+
+    Monitoring/Stalking                                      1641              10.4%             1094             9.0%                  -13%
+
+    Physical Abuse                                           2522              16.0%             1740             14.4%                 -10%
+
+    Potential Minor in Commercial Sex  6
+                                                             6255              39.7%             5187             42.9%                   8%
+
+    Reproductive Coercion                                     109              0.7%                57             0.5%                  -32%
+
+    Restricts Access to/Manipulates Children                  112              0.7%                95             0.8%                   11%
+
+    Sexual Abuse                                             1501              9.5%              1122             9.3%                   -2%
+
+    Threats                                                  4192              26.6%             2960             24.5%                  -8%
+
+    Withholds/Denies Needs or Wants                          1904              12.1%             1559             12.9%                   7%
+    Withholds/Destroys Important Documents                   1488              9.4%               565             4.7%                  -50%
+
+    Total Number of Victims with Known FFC                     15772                               12090
+
+6
+ “Potential Minor in Commercial Sex” is selected even when the potential victim’s age or commercial element of the sexual exploitation cannot
+be definitively determined, but indicators of both are present.
+                                                                                                                                                                                               15
+Force, Fraud, and Coercion (Grouped), continued
+
+
+
+
+                                                                                                                                                                                    2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+                                                                                                                         Sex +            Other/Not
+                                                     Labor                     Sex              Sex and Labor         Sex & Labor         Specified               Overall
+                                                #            %           #           %            #           %       #           %       #           %       #             %
+
+    Economic Abuse                              2197         66.9%           590       7.4%           188     37.1%       778      9.2%        16      4.4%   2989          24.7%
+
+    Emotional Abuse                                 999      30.4%        1995       25.1%            174     34.3%   2169        25.6%       127     34.7%   3287          27.2%
+
+    Excessive Working Hours                     1365         41.5%           20        0.3%            54     10.7%       74       0.9%                       1439          11.9%
+
+    Fraud/Misrepresentation of Job                  830      25.3%           84        1.1%            36      7.1%       120      1.4%                           951       7.9%
+
+    Induces/Exploits Substance Abuse                39        1.2%        1365       17.2%             92     18.1%   1457        17.2%        38     10.4%   1532          12.7%
+    Issues
+
+    Intimidation                                    293       8.9%        1042       13.1%             99     19.5%    1141       13.5%        24      6.6%   1457          12.1%
+
+    Isolation                                    1226        37.3%        1031       13.0%            208     41.0%    1239       14.7%       79      21.6%   2543          21.0%
+
+    Manipulation of Language Barrier                159       4.8%            7        0.1%                                7       0.1%                           167       1.4%
+
+    Monitoring/Stalking                             374      11.4%           550       6.9%            82     16.2%       632      7.5%       88      24.0%   1094          9.0%
+
+    Physical Abuse                                  233       7.1%        1287       16.2%            147     29.0%    1434       17.0%        77     21.0%   1740          14.4%
+
+    Potential Minor in Commercial Sex7              30        0.9%        4916       61.8%            195     38.5%   5111        60.4%        54     14.8%   5187          42.9%
+
+    Reproductive Coercion                            4        0.1%           45        0.6%             6      1.2%       51       0.6%                           57        0.5%
+
+    Restricts Access to/Manipulates                 15        0.5%           57        0.7%            15      3.0%       72       0.9%         8      2.2%       95        0.8%
+    Children
+
+    Sexual Abuse                                    103       3.1%           887     11.2%            102     20.1%       989     11.7%        34      9.3%   1122          9.3%
+
+    Threats                                     1802         54.8%           945     11.9%            166     32.7%    1111       13.1%        49     13.4%   2960          24.5%
+
+    Withholds/Denies Needs or Wants              1112        33.8%           333       4.2%            97     19.1%       430      5.1%        17      4.6%   1559          12.9%
+
+    Withholds/Destroys Important                    379      11.5%           148       1.9%            16      3.2%       164      1.9%        22      6.0%       565       4.7%
+    Documents
+
+    Total Number of Victims                          3286                     7950                      507                8457                 366                12090
+    with Known FFC
+
+
+7
+ “Potential Minor in Commercial Sex” is selected even when the potential victim’s age or commercial
+element of the sexual exploitation cannot be definitively determined, but indicators of both are present.
+
+
+
+
+       1st (top reported)                2nd        3rd
+                                                                                                                                                                                                          16
+                                                                                   2020 DATA from the NATIONAL HUMAN TRAFFICKING HOTLINE
+The data displayed in this report was generated based on information
+communicated to the National Human Trafficking Hotline via phone,
+email, online tip report, SMS, or Webchat. The National Human Trafficking
+Hotline cannot verify the accuracy of the information reported. This is not a
+comprehensive report on the scale or scope of human trafficking within the
+United States. These statistics are accurate as of 07/01/2021, but are subject
+to change as new information emerges or as data cleanup occurs.
+
+Since awareness of both human trafficking and the existence of a national
+victim service hotline is still limited, this data set should be interpreted as
+a limited sample of actual victim or trafficking incident data, rather than a
+representation of all existent victims or incidents of human trafficking. The
+information reported by the Trafficking Hotline is only able to represent who
+has access to and knowledge of the Trafficking Hotline, who has the means to
+reach out, and who is more likely to self-identify as a likely victim or someone
+in need of assistance. The data reported by Polaris should not be compared
+to the findings of more rigorous academic studies or prevalence estimates.
+
+
+
+
+                                                                                                         17
+

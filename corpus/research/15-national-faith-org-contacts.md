@@ -1,0 +1,20 @@
+# National faith-based anti-trafficking orgs — church-engagement contacts (compiled 2026-10-04; VERIFIED on official pages unless noted)
+- **IJM (DC):** church contact **Stefani Johnson, sjohnson@ijm.org** (title not stated); Freedom Sunday planning guides + sign-up form; Local Prayer Gathering toolkit; speakers for sermons/workshops. 844-422-5878; contact@ijm.org. https://www.ijm.org/get-involved/churches
+- **Shared Hope:** Ambassadors of Hope questions **awareness@sharedhope.org**, 360-693-8100; training@sharedhope.org; Mikayla Simeral, Director of Training Advancement; Faith in Action Kit $75; DC office 1016 16th St NW Ste 200. No dedicated presentation form — use contact form.
+- **Let My People Go (Raleigh Sadler):** info@lmpg.org; church partnership tiers **$250–$825/month** (handbooks, coaching, on-site training); *Vulnerable* discussion guide only with a partnership. Expensive for a pilot.
+- **Set Free Movement:** Kevin Austin, Director; team@setfreemovement.org; **"Start a Team" — no cost**, 5-session onboarding cohort, leader agreement + monthly reporting; Freedom Sunday kit free; speaker honorarium flexible.
+- **Street Grace (Atlanta):** info@streetgrace.org, 678-809-2111; "Sex Trafficking 101" 1-hr virtual webinar for churches; no MD presence.
+- **The Exodus Road:** speaker form (2–3 business days); free "Freedom Day" youth-group kit; TraffickWatch Academy free. No "Freedom Church" program found.
+- **Love Justice International:** **Jeff Smith, Church Partnerships Coordinator**; info@lovejustice.ngo; speaker form; "Loving Justice" 8-lesson small-group curriculum; Justice Sunday.
+- **A21:** info@a21.org; Walk for Freedom → Global Freedom Summit watch parties; no church-partnership page.
+- **Treasures (LA):** Harmony Dust founder; online "Faith-Based Allies" training $397; speaking form.
+- **Wellspring Living (Atlanta):** Michelle Graves, Director of Community Engagement, mgraves@wellspringliving.org (church speakers; GA-focused).
+- **Nazarene Compassionate Ministries:** info@ncm.org; Church Engagement Guide (US focus).
+- **Send Relief (SBC):** church speaker/materials request form https://sendrelief.formstack.com/forms/church_requests ; **free 35-min course "How to Fight Human Trafficking"** (8 videos, Cassie Hammett) https://courses.sendrelief.org/courses/how-to-fight-human-trafficking/ ; 30-day prayer guide; "Backpack Ministry" guide. ERLC: no trafficking staffer; 2026 agenda lists victim advocacy.
+- **Vanguard GCWJ:** Dr. Sandra Morgan, Executive Director; 714-966-6360; online Anti-Human Trafficking Certificate (non-credit $399/course); Ensure Justice Mar 5, 2027.
+- **Christians for Impact:** no trafficking researcher.
+- **Orthodox:** no trafficking ministries found (OCA, GOA unverified); IOCC HQ Baltimore (outreach@iocc.org) for parish speakers; FOCUS DMV forming (Potomac MD).
+- **ACNA:** New Wineskins Anglican Freedom Network — Anthea Kotlan; info@newwineskins.org; "Breaking the Chains" conference Sept 18–19, 2026 Woodbridge VA.
+- **Jewish/interfaith:** T'ruah worker-justice (office@truah.org); Baltimore Jewish Council (Megan Brantley, mbrantley@baltjc.org); NCJW MD Action Team ncjw.mdacts@gmail.com.
+- **Howard County Interfaith Advisory Commission (new, Apr 2026):** staff liaison LaKeisha McClendon (Office of Human Rights & Equity); quarterly meetings from fall 2026; **inaugural-member applications open**. https://www.howardcountymd.gov/boards-commissions/interfaith-advisory-commission
+- Araminta volunteer manager phone (from Serve On Purpose draft): 443-986-2804.

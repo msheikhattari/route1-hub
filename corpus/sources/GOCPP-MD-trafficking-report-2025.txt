@@ -1,0 +1,607 @@
+Maryland’s Efforts to Combat Human
+Trafficking 2025 Report
+Family Law Article, Section 5-704.4(g)(1); Executive
+Order 01.01.2018.19 B
+Governor’s Office of Crime Prevention and Policy
+November 25, 2025
+ DOROTHY LENNIG
+Executive Director
+November 25, 2025
+The Honorable Wes Moore​ ​ ​ The Honorable William C. “Bill” Ferguson IV
+Governor of Maryland​ ​ ​ President of the Senate
+100 State Circle​ ​ ​ ​ State House, H-107
+Annapolis, MD 21401​ ​ ​ Annapolis, MD 21401-1991
+The Honorable Adrienne Jones
+Speaker of the House of Delegates
+State House, H-101
+Annapolis, MD 21401
+RE: Family Law Article § 5-704.4(g)(1) (MSAR #15143) and Executive Order 01.01.2018.19 B
+(MSAR #11842)
+Dear Governor Moore, President Ferguson, and Speaker Jones:
+As required by § 5-704.4(g)(1) of the Family Law Article and Executive Order 01.01.2018.19 B, please
+find an enclosed copy of the Governor’s Office of Crime Prevention and Policy’s report, titled
+Maryland’s Efforts to Combat Human Trafficking 2025 Report. This report includes information
+regarding the distribution of funding under the Safe Harbor Regional Navigator Grant Program to
+support services for youth victims of sex trafficking. It also identifies whether the services coordinated
+and provided by grantees are available, adequate, and successfully serving children and youth victims of
+sex trafficking and labor trafficking. Furthermore, it provides information on best practices for serving
+victims of human trafficking, a summary of State and federal funds available to serve victims of human
+trafficking, and recommendations to further the State’s efforts against human trafficking. Should you
+have any questions relating to the information provided in this report, please feel free to contact me at
+410-697-9338.
+As required, five color copies will be sent to the DLS Legislative Library.
+Sincerely,
+Dorothy J. Lennig, Esq.
+Executive Director
+cc: Sarah Albert, Department of Legislative Services (5 copies)
+100 Community Pl. ∙ Crownsville, MD 21032
+Tel: 410-697-9338 ∙ Fax: 410-558-6697 ∙ Toll Free: 1-877-687-9004 ∙ TTY Users: Call via Maryland Relay
+https://gocpp.maryland.gov/
+ Table of Contents
+Introduction​ 2
+Revised Metrics for Victim Services Awards​ 2
+Maryland’s Efforts to Combat Human Trafficking​ 4
+Evaluation of Services for Victims of Sex Trafficking​ 4
+Statewide Human Trafficking Response Director​ 7
+Statewide Best Practices to Services Victims​ 7
+Available Funds to Support Victims​ 13
+Maryland Crime Research and Innovation Center​ 14
+Recommendations​ 14
+Conclusion​ 15
+Page 1
+Introduction
+In accordance with § 5-704.4(g)(1) of the Family Law Article and Executive Order
+01.01.2018.19 B, the Governor’s Office of Crime Prevention and Policy (Office) must submit an
+annual report or biennial independent evaluation to the Governor and/or the General Assembly
+by December 1, as it relates to:1
+●​ Whether services coordinated and provided by grantees under § 5-704.4 of the Family
+Law Article are available, adequate, and successfully serving children and youth who are
+victims of sex trafficking and labor trafficking, as required by § 5-704.4(g)(1) of the
+Family Law Article; and
+●​ Information regarding best practices for serving victims of human trafficking, available
+State and federal funding to serve victims, efforts to develop anti-human trafficking
+priorities in partnership with the Maryland Crime Research and Innovation Center, and
+recommendations to further the State’s efforts against human trafficking, as required by
+Executive Order 01.01.2018.19 B.
+Pursuant to its charge, this Maryland’s Efforts to Combat Human Trafficking 2025 Report
+includes information on the distribution of funding under the Safe Harbor Regional Navigator
+Grant Program (RNPG), also known as the Child Sex Trafficking Screening and Services Act
+Regional Navigator Program, to support services for youth victims of sex trafficking. It also
+examines qualitative and quantitative data to measure the outcome of the services provided; and
+details the State’s efforts to combat human trafficking through the Office’s Victim Services Unit.
+Furthermore, it provides a follow-up to several reports submitted in prior years. To view these
+reports, please visit the Office’s website at:
+https://gocpp.maryland.gov/reports-and-publications/.
+Revised Metrics for Victim Services Awards
+In April 2024, the Department of Budget and Management (DBM) initiated its annual process to
+allow agencies to update their Managing for Results (MFR) Strategic Plans to ensure requests
+from the legislature, metrics for newly established programs, and Key Performance Indicators
+(KPIs) are integrated in the plan. Because data-driven decisions are the foundation of the Office,
+the measures used to inform policy, practices, and funding decisions must be accurate and
+1
+It is important to note that this report accounts for two requirements with different due dates: § 5-704.4(g)(1) of the
+Family Law Article requires the Office to submit an independent evaluation on services for victims of sex trafficking
+to the Governor and the General Assembly by December 1 of every other year, beginning in 2019; and Executive
+Order 01.01.2018.19 B requires the Statewide Human Trafficking Response Director to submit a report to the
+Governor by December 1 of each year, on the status of the Director’s work.
+Page 2
+meaningful. For this reason, the Office examined several victim-specific performance measures
+to determine if the measures provided an actual representation of victims served in Maryland.
+Based on an internal evaluation of the program assessment method for victim services awards,
+which required a manual review of programmatic data to identify and remove duplicate entries,
+the Office found limitations due to several overly general data metrics. Because the measures
+lacked clear and specific definitions, which hindered the ability to present findings in a
+meaningful way, the Office developed new measures in May 2024, which were approved by
+DBM for the FY 2026 MFR Strategic Plan (as listed below).2 The Office also created definitions
+for each measure to ensure consistency with the data collection and submission process.3
+●​ How many primary crime victims were served during this reporting period (unduplicated
+count)?
+●​ How many secondary crime victims (surviving family member or other individual) were
+served during this reporting period (unduplicated count)?
+On October 1, 2024, subrecipients were informed of the evaluation and new performance
+measures to reflect the outcome of the grant program. They were also asked to report on new
+measures as part of their mandated programmatic submissions, effective July 1, 2024. Given the
+importance of identifying victims served by funding source, the Office added the following
+measures for subrecipients to report on, effective January 1, 2025:4
+●​ During this reporting period and using ALL funding sources (all grants, general funding,
+fundraising, etc.), how many total unduplicated NEW victims (both primary and
+secondary victims) who live, work, or were victimized in Maryland were served?
+●​ During this reporting period and using ALL funding sources (all grants, general funding,
+fundraising, etc.), how many unduplicated NEW primary victims who live, work, or were
+victimized in Maryland were served?
+●​ During this reporting period and using ALL funding sources (all grants, general funding,
+fundraising, etc.), how many unduplicated NEW secondary victims who live, work, or
+were victimized in Maryland were served?
+2
+Department of Budget and Management. (2024). Governor's Office of Crime Prevention, and Policy - Managing
+for Results FY 2026.
+https://dbm.maryland.gov/Documents/MFR_documents/2026/Governor_s-Office-of-Crime-Prevention-and-Policy-
+MFR.pdf
+3
+A primary victim is an individual who directly experiences harm or abuse as the result of a crime; such as
+physical, emotional, or sexual violence. A secondary victim is an individual who is indirectly affected by a crime or
+harmful event as a result of a crime. They may be impacted emotionally or psychologically because of their
+relationship with the primary victim. Unduplicated count means that each victim is counted only once even if the
+victim meets more than one criteria, specific data variable, or service. Ongoing means services that are provided to
+current victims that are not counted under the new primary or secondary metrics.
+4
+It is important to note that the six measures replaced the two measures that took effect July 1, 2024, to gather more
+insight regarding allocated grant funding for primary and secondary victims who are served in Maryland.
+Page 3
+ ●​ During this reporting period and using ONLY THESE grant funds, how many NEW total
+victims (both primary and secondary victims) who live, work, or were victimized in
+Maryland were served?
+●​ During this reporting period and using ONLY THESE grant funds, how many NEW
+primary victims who live, work, or were victimized in Maryland were served?
+●​ During this reporting period and using ONLY THESE grant funds, how many NEW
+secondary victims who live, work, or were victimized in Maryland were served?
+Based on the identified changes, as well as a new methodology to identify subrecipient reported
+information through an internal interactive data dashboard, all performance measures for victim
+services awards provide a better representation of victims served in Maryland as well as the
+funding source used. The new methodology is also used across all funding streams to improve
+internal processes and increase efficiency for the collection and analysis of performance metrics.
+Maryland’s Efforts to Combat Human Trafficking
+Evaluation of Services for Victims of Sex Trafficking
+Pursuant to § 5-704.4(g)(1) of the Family Law Article, which was established by the Child Sex
+Trafficking Screening and Services Act of 2019 (Act), this Evaluation of Services for Victims of
+Sex Trafficking section includes information on the administration and distribution of funds to
+support services for youth victims of sex trafficking and labor trafficking. The Office administers
+the RNPG program to expand programming in jurisdictions to coordinate and provide services
+for suspected child sex and labor trafficking victims who are age 24 and under.5 Through this
+program, jurisdictions develop a network of regional navigators to provide specific services to
+identified or confirmed child sex or labor trafficking victims, including safety planning,
+emergency responses, basic living needs, trauma counseling and mental health services, drug and
+alcohol abuse treatment, legal services, victim advocacy, and case management. The program
+also requires law enforcement and local departments of social services, who have reason to
+believe a child is a victim of sex or labor trafficking, to notify a regional navigator in their
+jurisdiction to obtain needed services for the child.6
+5
+Governor’s Office of Crime Prevention and Policy. Child Sex Trafficking Screening and Services Act Regional
+Navigator Program (RNPG). https://gocpp.maryland.gov/grants/programs/rnpg/
+6
+The Act mandated the statewide implementation of the Regional Navigator Program. For the first time, the Office
+received dedicated funding in State fiscal 2024; in previous years, support was provided by reallocating funds from
+other programs. As of February 2024, all 24 jurisdictions in Maryland had successfully implemented the program.
+Page 4
+In State fiscal 2025, $3,349,415 was provided in general funds for the RNPG program, and the
+Office awarded the following subrecipients (as illustrated in Table 1).
+Table 1: State Fiscal 2025 RNPG Awards
+Start End Award
+Implementing Agency Project Title Jurisdiction7
+Date Date Amount
+Allegany County Regional Navigator
+Jane's Place, Inc. 7/1/24 9/30/25 $72,227 Allegany
+Continuation - FY25
+Center for Hope, Inc. FY 2025 Baltimore City Child Sex
+Baltimore
+(formerly The Baltimore Child Trafficking Screening & Services Act 7/1/24 9/30/25 $156,368
+City
+Abuse Center, Inc.) Regional Navigator Program
+University of Maryland, Baltimore
+Regional Navigator FY25 7/1/24 9/30/25 $489,150
+Baltimore City
+The Washington County Department
+Washington County
+of Social Services Regional Navigator 7/1/24 6/30/25 $83,749 Washington
+Department of Social Services
+Grant Program
+Board of Child Care of the Board of Child Care-Everstand Baltimore
+7/1/24 9/30/25 $155,968
+United Methodist Church, Inc. Regional Navigator Program County
+TurnAround, Inc. (Baltimore Bridging Response to Safe Harbors Baltimore
+7/1/24 6/30/25 $489,150
+County) (Regional Navigator Continuation) County
+Rape Crisis Intervention
+CARE Healing Center Regional
+Service of Carroll County, Inc. 7/1/24 9/30/25 $195,660 Carroll
+Navigator Program
+DBA Care Healing Center
+Southern Maryland Child Sex
+Center for Children, Inc. trafficking Regional Navigator 7/1/24 9/30/25 $489,092 Charles
+Program
+Cecil County Department of Regional Navigator Program - Cecil
+7/1/24 6/30/25 $101,000 Cecil
+Community Services County
+Heartly House, Inc. Services for HT Victims 7/1/24 9/30/25 $195,660 Frederick
+Domestic Violence Sexual
+Garrett Human Trafficking Navigation
+Assault Resource Center 7/1/24 9/30/25 $14,434 Garrett
+and Training Initiative
+(Dove Center)
+Sexual Assault/Spouse Abuse
+Regional Trafficking Navigator 7/1/24 6/30/25 $44,141 Harford
+Resource Center, Inc. (SARC)
+Regional Navigator & Comprehensive
+For All Seasons, Inc. Human Trafficking Response (RNPG 7/1/24 6/30/25 $489,105 Talbot
+FY25)
+Lower Shore Child Sex Trafficking
+Life Crisis Center, Inc. 7/1/24 6/30/25 $373,711 Wicomico
+Navigator Program
+Total $3,349,415
+7
+It is important to note that the awarded jurisdiction may not reflect the jurisdictions served under the identified
+grant award. For instance, the University of Maryland, Baltimore serves Prince George’s and Montgomery; the
+Board of Child Care of the United Methodist Church, Inc. covers Anne Arundel; TurnAround, Inc. provides services
+for Baltimore County and Howard; the Center for Children, Inc. serves Charles, Calvert, and St. Mary’s; For All
+Seasons, Inc. covers Kent, Dorchester, Talbot, Queen Anne’s, and Caroline; and the Life Crisis Center, Inc. provides
+services for Worcester, Wicomico, and Somerset.
+Page 5
+Through the RNPG program, awarded funds were used to provide services needed to comply
+with the Act. In addition, and based on the quarterly submission of revised performance
+measures (as described in the Revised Metrics for Victim Services Awards section), awarded
+subrecipients reported the following outcomes in State fiscal 2025:8
+●​ 1,075 human trafficking victims served
+●​ 428 new human trafficking victims served
+●​ 2,417 unique primary crime victims served9
+●​ 285 unique secondary crime victims served
+●​ 2,568 victims received ongoing services through the RNPG program only
+●​ 4,941 victims received ongoing services through all funding sources
+Furthermore, regional navigators anecdotally reported several challenges to include:
+●​ Underreported trafficking cases and/or discrepancies in referral protocols
+●​ Impacted service delivery due to inconsistent referrals, logistics (e.g., transportation), etc.
+●​ Development of an outcome measurement survey to maintain an accurate count of
+trafficking families who complete the survey
+●​ Transitional and/or affordable housing
+Navigators also reported several notable activities that occurred during the reporting period:
+●​ Completed trainings
+●​ Strengthened victim service delivery
+●​ Ongoing efforts to emphasize relationship building, survivor empowerment, and harm
+reduction
+The Office’s Victim Services Unit continues to meet with regional navigators to identify gaps in
+services in each jurisdiction.
+8
+It is important to note that given the recent methodology to better identify primary and secondary victims who are
+served in Maryland using grant funds, the Office combined figures for separate measures to identify the number of
+unique primary crime victims served: “How many primary crime victims were served during the reporting period
+(unduplicated count)” which covered the first half of the fiscal period, and “During this reporting period and using
+ONLY THESE grant funds, how many NEW primary victims who live, work, or were victimized in Maryland were
+served” which covered the second half of the fiscal period. A similar process occurred pertaining to unique
+secondary crime victims served.
+9
+This total includes individuals identified as at-risk or suspected victims who received Navigator support. This
+metric is included because trafficking victims often initially deny exploitation but may disclose other crimes such as
+domestic violence, sexual assault, or child sexual abuse. Early intervention with these victims aims to reduce the
+likelihood of future trafficking.
+Page 6
+Statewide Human Trafficking Response Director
+Pursuant to Executive Order 01.01.2018.19 B, this Statewide Human Trafficking Response
+Director section includes information on establishing statewide best practices to serve victims,
+available State and federal funds to support victims, the work of the Maryland Crime Research
+and Innovation Center related to human trafficking, and recommendations to further the State’s
+efforts to combat human trafficking (as described below). Following the vacancy of the Director
+position in March 2020, and the hiring freeze to recover from the impact of the COVID-19
+pandemic, the Office moved funding to support the hire of staff in its Victim Services Unit to
+further the State’s efforts to combat human trafficking.
+Statewide Best Practices to Services Victims
+The Office’s Victim Services Unit continues to collaborate with various public safety partners,
+victim service providers, the statewide Maryland Human Trafficking Task Force, and local task
+forces to identify and gather information on efforts within the State to address human trafficking.
+Through this process, and in coordination with local, State, and federal partners, the Office
+provides information on and aids in the establishment of best practices when serving victims of
+human trafficking (as listed below).
+Standard Operating Procedure
+In July 2025, the Office and University of Maryland Baltimore School of Social Work’s
+Prevention of Adolescent Risks Initiative (PARI) finalized and distributed a comprehensive
+Standard Operating Procedure (SOP) manual for the Regional Navigator Program. This manual
+serves as a practical guide for programs, outlining best practices, program expectations, and
+consistent approaches to service delivery across the State. It also provides clarity on the role of
+the regional navigator, guidance on working within multidisciplinary teams, and processes for
+responding to human trafficking cases in alignment with Maryland’s laws and victim-centered
+standards.
+The purpose of the SOP is twofold: to ensure that all survivors of human trafficking receive
+high-quality, consistent services regardless of where they are located in Maryland, and to provide
+regional navigators and their teams with a reliable reference tool to support their daily work. By
+establishing statewide consistency, the SOP strengthens collaboration across regions, reduces
+gaps in service delivery, and reinforces accountability to both survivors and partner agencies.
+The SOP is a living document and will be revisited bi-annually, with input from regional
+navigators and partner agencies, to ensure it reflects emerging best practices, statutory changes,
+and the evolving needs of survivors across the State. The second edition of the SOP will be
+released in October 2025, to reflect the changes with the University of Maryland School of
+Page 7
+Social Work’s PARI.
+Statewide Strategic Plan to Address Human Trafficking
+The statewide strategic plan to address human trafficking was originally developed through the
+University of Maryland School of Social Work’s Prevention of Adolescent Risks Initiative
+(PARI). With the conclusion of PARI’s grant on September 30, 2025, their formal collaboration
+with the Office has ended. The Office is now in the process of reviewing the strategic plan to
+determine which elements can be implemented moving forward.
+The plan, which PARI developed in partnership with state and local stakeholders, continues to
+provide a strong foundation. The Office will build on the lessons, data, and recommendations
+from PARI to sustain effective initiatives while aligning the plan with current needs, emerging
+trends, and stakeholder input.
+Key components of the Office-led strategic plan will include:
+●​ Prevention: Strengthening public awareness, education, and early intervention strategies
+to prevent trafficking before it occurs.
+●​ Identification: Enhancing the capacity of frontline professionals, including regional
+navigators, law enforcement, and service providers, to identify potential trafficking
+victims.
+●​ Service Coordination: Promoting cross-system collaboration to ensure victims and
+at-risk individuals receive timely, trauma-informed, and survivor-centered services.
+●​ Data and Evaluation: Utilizing data from regional navigators, law enforcement, and the
+Maryland Statistical Analysis Center to track trends, measure outcomes, and inform
+continuous improvement.
+●​ Legislative Alignment: Ensuring State and local responses remain aligned with
+Maryland’s human trafficking laws and emerging policy priorities.
+By assuming stewardship of the PARI strategic plan, the Office is positioned to create a seamless
+transition, strengthen statewide coordination, and advance Maryland’s commitment to a
+victim-centered, multi-system approach to combat human trafficking.
+Human Trafficking Training
+In 2025, the Office continued its partnership with the University of Maryland Baltimore’s School
+of Social Work’s PARI through the Office for Victims of Crime (OVC) Improving Outcomes for
+Child and Youth Victims of Human Trafficking grant to provide training support for regional
+navigators. These efforts demonstrate the Office’s ongoing commitment to professional
+development and capacity building. Since June 11, 2025, the Office’s Victim Services
+Coordinator has expanded training and outreach efforts across the State. Presentations on the
+Page 8
+Regional Navigator Program were delivered to the Maryland Association of Resources for
+Families and Youth (MARFY) and one scheduled for Lead4Life. A human trafficking awareness
+presentation was also provided to Jane’s Place in Allegany County. The Victim Services
+Coordinator will also facilitate the first Regional Navigator Summit in November 2025, which
+will provide specialized training for regional navigators to strengthen consistency and
+collaboration statewide. These efforts demonstrate the Office’s ongoing commitment to
+professional development and capacity building.
+Regional Navigator Technical Assistance (TA) & Mentorship
+●​ Technical Assistance: The Victim Services Coordinator has met one-on-one in person
+with every regional navigator. These meetings were guided by a set of 13 predetermined
+questions designed to learn more about each program, and identify any statewide themes
+or needs. Moving forward, these meetings will continue each quarter as 30-minute virtual
+one-on-one sessions to provide ongoing support from the Office.
+●​ Mentorship: The Victim Services Coordinator revitalized and expanded the regional
+navigator mentorship program to include all direct service staff within the RNPG
+program. Mentees are paired with an experienced regional navigator or other seasoned
+direct service professional for a three-month term. Each pair meets monthly for 30
+minutes, following a structured guide developed by the Victim Services Coordinator. A
+pre- and post-test framework helps evaluate the program’s effectiveness, capturing
+feedback to identify strengths and areas for improvement. This process ensures the
+program continues to evolve in ways that strengthen support for regional navigator teams
+statewide.
+●​ Onboarding: A comprehensive onboarding process has been developed to welcome and
+prepare new regional navigators. This process includes a curated training plan designed
+to build a strong foundation in understanding human trafficking, identifying indicators,
+and recognizing how trafficking manifests across Maryland. The onboarding also
+provides essential background on the history and mission of the Regional Navigator
+Program, ensuring new regional navigators are fully equipped to step into their roles with
+confidence and clarity.
+●​ Website: The Office launched a dedicated landing site exclusively for regional navigators
+and their teams, which is updated regularly to serve as a centralized hub of information
+and resources. The site features:
+○​ An overview of human trafficking initiatives led by the Office
+○​ A regularly updated regional navigator contact list
+○​ A library of webinars and trainings for continued education
+○​ Resources and best practices for supporting labor trafficking survivors
+○​ Details on recurring statewide meetings
+Page 9
+The site is accessible only to regional navigators and their teams: https://mdrgnv.my.canva.site/.
+Partnered Efforts
+●​ Maryland Human Trafficking Task Force: The Office continues to collaborate with the
+Maryland Human Trafficking Task Force and statewide partners to identify best practices,
+close service gaps, and strengthen Maryland’s response to human trafficking. The Victim
+Services Coordinator is active in the Public Awareness Subcommittee and working on
+developing outreach strategies, resources, and tools to increase awareness across the
+state. In addition, the VSC is assisting with developing a new website and social media
+accounts for the Task Force. The goal is to create a centralized space where community
+members can find accurate information and where survivors can access help and services
+more easily.
+●​ Local Human Trafficking Task Forces and/or Collaboratives: The Office partners
+with local human trafficking collaboratives and task forces to strengthen service delivery
+and create stronger connections for regional navigators. These partnerships provide
+opportunities to share information, reinforce best practices, and remind local partners of
+the requirements and implications of Maryland’s human trafficking legislation, including
+both the Innkeepers Bill and the Transportation Bill.
+●​ PARI: In partnership with the University of Maryland School of Social Work’s PARI, the
+Office supported regional navigators through the OVC Improving Outcomes for Child
+and Youth Victims of Human Trafficking grant. Because the grant ended on September
+30, 2025, the Victim Services Coordinator will provide technical assistance for regional
+navigators. The Victim Services Coordinator facilitates monthly regional navigator
+meetings and actively engages with partners across systems to expand understanding of
+the programs and increase referrals.
+●​ P.R.O.T.E.C.T & MCIN: To foster stronger cross-system collaboration, the Office
+linked regional navigators with Public Resource Organizing to End Crime Together
+(P.R.O.T.E.C.T.) and Maryland Criminal Intelligence Network (MCIN) coordinators to
+provide opportunities for shared learning, cross-training, and coordinated service
+delivery.
+●​ Department of Labor: The Office continues to partner with the Department of Labor to
+ensure effective implementation of the Innkeepers Bill. A key component of this
+collaboration includes maintaining and updating the hotel master list, which serves as the
+foundation for monitoring compliance and outreach to lodging establishments. In 2025,
+the Office updated the list on two occasions to support the Department of Labor; the most
+recent update occurred in September. Given the ongoing challenge to identify newly
+opened hotels, motels, and bed-and-breakfasts in a timely manner, regional navigators
+will monitor their regions for new establishments and notify the Office of any changes.
+Once notified, the Office will update the shared hotel master list and coordinate with the
+Page 10
+ Department of Labor to ensure it remains accurate and comprehensive. This joint
+approach strengthens statewide oversight and helps ensure that all relevant lodging
+providers are informed of their responsibilities under the law.
+●​ Department of Juvenile Services (DJS): In August 2025, the Office met with leadership
+from DJS to explore leveraging the Regional Navigator Program to support youth who
+fall under § 3-8A-35 of the Courts and Judicial Proceedings Article, specifically those
+adolescents involved in sending, receiving, or exchanging child sexual abuse material
+(sexting) in return for items of value. The goal of this collaboration is to ensure that youth
+within this statute are identified early and connected to the Regional Navigator Program
+for support. Regional navigators will provide outreach, education, and case-assistance
+tailored to these at‐risk youth, complementing DJS’s existing intervention strategies.
+Moving forward, the Office and DJS will continue to discuss developing joint protocols
+for referral, risk assessment, and regional navigator involvement in relevant cases.
+Training for both DJS staff and regional navigator teams will be expanded to include this
+statutory context to ensure all involved can understand their roles in identification,
+reporting, and providing appropriate services.
+●​ Department of Human Services (DHS): The Office maintains a strong partnership with
+DHS, particularly with DHS’ Human Trafficking Policy Analyst. Together, the Office
+and DHS have expanded statewide training for Child Protective Services (CPS). In spring
+and summer 2025, PARI and DHS rolled out a new training on child labor trafficking,
+reaching over 500 CPS workers and supervisors. This training also provided information
+on the Regional Navigator Program. Because CPS referrals to regional navigators are
+limited to active cases, the Office, PARI, and DHS identified additional groups for
+training, including Out-of-Home Placement staff and foster youth programs. The goal is
+to increase awareness and referrals both to regional navigators and CPS. A follow-up
+meeting with DHS’s Out-of-Home Placement executives is scheduled for October 2025
+to expand this effort and discuss further statewide training.
+●​ Maryland Stadium Authority (MSA): In September 2025, the Office met with MSA to
+explore opportunities to expand human trafficking awareness across Camden Yards and
+M&T Bank Stadium. Discussions focused on increasing messaging for stadium
+personnel, including breakroom materials to help staff recognize indicators of trafficking
+and understand how to report concerns. MSA also requested the development of a brief
+10–15 minute training video to incorporate into both onboarding and ongoing training for
+its personnel. In addition, MSA expressed interest in offering the training resource to
+visiting teams’ personnel who travel to the stadiums, further extending the reach of this
+awareness initiative.
+Page 11
+Human Trafficking Data Collection
+●​ Maryland Statistical Analysis Center (MSAC): MSAC resides within the Office to
+facilitate statewide crime data analysis and sharing to generate effective local policies and
+solutions. MSAC examined human trafficking data throughout the State to develop a
+better understanding of the nature and scope of human trafficking in Maryland. The
+project, which was partially funded by the Bureau of Justice Statistics through the State
+Justice Statistics Program,10 served to create a resource for the Office to use, in
+collaboration with law enforcement, prosecutors, and service providers, to develop a
+comprehensive approach to combat human trafficking and offer financial support to
+address identified needs. For more information regarding the completed project and/or to
+view an interactive data dashboard of the findings, please visit the Office’s website at:
+https://app.powerbigov.us/view?r=eyJrIjoiZjE5YzhlOTItMTU0My00ZjAyLTlhNDgtMm
+M2NWY3NzM3YjQ1IiwidCI6IjYwYWZlOWUyLTQ5Y2QtNDliMS04ODUxLTY0ZG
+YwMjc2YTJlOCJ9.
+●​ Maryland Coordination and Analysis Center (MCAC): In September 2025 the Office
+met with MCAC’s Intelligence Analyst for Human Trafficking within the Artificial
+Intelligence Threats Division. The conversation focused on leveraging data gathered by
+regional navigators to further identify trafficking trends statewide. A key area of concern
+highlighted the growing intersection between human trafficking, artificial intelligence
+(AI), and child sexual abuse material (CSAM). The misuse of AI to create, distribute, and
+conceal CSAM not only increases risks to vulnerable youth but also complicates
+identification and response efforts. By incorporating regional navigator data with
+MCAC’s intelligence and technological expertise, Maryland is working toward a more
+comprehensive understanding of how trafficking networks are evolving in the digital
+space. This partnership will enhance the State’s ability to identify patterns, disrupt
+exploitation, and inform future prevention, enforcement, and survivor support strategies.
+Innkeepers Bill
+As required by § 15-210 of the Business Regulation Article, the Office approved three training
+materials for hotel employees to recognize the signs of human trafficking and to provide
+employees with training on how to respond to suspected incidents of trafficking. For more
+information on the approved training, please visit the Office’s website at:
+https://gocpp.maryland.gov/victim-services/human-trafficking/.
+10
+U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics. (2021). State Justice Statistics
+Program. https://bjs.ojp.gov/programs/state-justice-statistics-program
+Page 12
+Because a statewide database containing the required training and guidance for hotel, motel, and
+inn employees does not exist, the Office, in collaboration with the Department of Labor, will
+continue to monitor establishments to ensure they are up-to-date with certification.
+●​ See Someone, Save Someone Act: The Office continues to partner with the Maryland
+Department of Transportation (MDOT) to support the implementation of Senate Bill 7
+(2024), which requires the posting of human trafficking awareness materials across
+transportation hubs and facilities. In collaboration with Transportation Against
+Trafficking and local human trafficking task forces, the Office is working to ensure that
+awareness efforts are coordinated, consistent, and impactful. As part of this partnership,
+the Office is helping to plan and host a Transportation Human Trafficking Awareness
+Event in Crownsville, Maryland on January 7, 2026. This event will serve as a key
+opportunity to highlight the progress made since the passage of Senate Bill 7 and to bring
+the bill’s intent into practice. The event will include awareness training for transportation
+stakeholders and a panel discussion featuring subject matter experts from across the
+State. By aligning legislative mandates with public awareness efforts and collaborative
+training, the Office and MDOT may ensure that transportation systems in Maryland
+become stronger points of identification and intervention for potential trafficking cases.
+This partnership represents a significant step forward in leveraging State infrastructure to
+protect vulnerable individuals and disrupt trafficking networks.
+●​ Safe Harbor: With the passage of Safe Harbor legislation (Chapters 686 and 687 of
+2023), child victims of sex trafficking were protected from prosecution for certain
+offenses such as trespass, theft, sex work, and other offenses that the child may have
+committed as a result of being a victim. Chapters 348 and 349 of 2024 expanded the Safe
+Harbor legislation to include child victims of labor trafficking in RNPG funding requests
+and added housing to the services regional navigators must provide. The legislation also
+altered the statutory provisions that govern Child in Need of Assistance (CINA)
+proceedings, the reporting and investigation of suspected child abuse and neglect, and the
+definition of “abuse” to include labor trafficking of a child by any individual. There were
+no legislative updates to Safe Harbor in 2025.
+Available Funds to Support Victims
+The Office continues to provide funding for human trafficking victims to receive direct services
+such as emergency shelter, 24-hour talk-line, trauma-informed therapy, peer groups, support
+services (housing assistance, job training, life skills, economic empowerment, GED, and
+vocational training) assistance obtaining a driver’s license or transportation to and from
+appointments and court appearance, legal advocacy, victim advocacy and system navigation, and
+street outreach. The Office also encourages direct service providers, nonprofit organizations, and
+Page 13
+law enforcement to apply for any open and available State and federal grant funding source,
+including the following grant programs:
+●​ Children’s Justice Act Committee (CJAC)
+●​ Internet Crimes Against Children (ICAC)
+●​ Maryland Victims of Crime Fund (MVOC)
+●​ Child Sex Trafficking Screening and Services Act Regional Navigator Program (RNPG)
+●​ Sexual Assault/Rape Crisis Center Grant Program (SARC)11
+●​ Sexual Assault Services Program (SASP)
+●​ STOP (Services * Training * Officers * Prosecutors) Violence Against Women Formula
+Grant Program (STOP VAWA)
+●​ Victims of Crime Act (VOCA)
+For more information regarding these grant programs and/or additional funding sources, please
+visit the Office’s website at: https://gocpp.maryland.gov/programs/.
+Maryland Crime Research and Innovation Center
+On October 1, 2025, the Victim Services Unit met with the Director of MCRIC and her team to
+discuss opportunities for collaboration on anti-human trafficking priorities. Because MCRIC’s
+participation is contingent on funding, efforts to advance human trafficking research will
+continue in partnership with MSAC and MCAC. The first meeting with MCAC was held in
+September, followed by a second meeting in October, with additional follow-up planned through
+the remainder of the year to develop a comprehensive human trafficking landscape analysis. This
+project will leverage data collected by the regional navigators to identify and track typologies,
+patterns of victimization, and demographic trends among suspected and confirmed referrals
+across the State. Follow-up with MSAC and MCAC will continue throughout the beginning of
+the year to maintain coordination as these efforts move forward.
+Recommendations
+The Office recommends a comprehensive reevaluation of the current RNPG sites to ensure that
+funding is optimized to provide the highest level of direct services to trafficking victims. While
+the program has been successfully implemented across all 24 jurisdictions, differences in
+structure and resource allocation create inconsistencies in the delivery of victim services. A
+statewide assessment will allow for adjustments to ensure equitable distribution of funds, reduce
+duplication of efforts, and strengthen service delivery for victims.
+●​ Systemization and Statewide Alignment: To build greater consistency across Maryland,
+the Office recommends establishing a standardized framework for RNPG operations.
+11
+It is important to note that this funding source is limited to specific centers.
+Page 14
+ This includes common performance measures, streamlined reporting requirements, and
+uniform protocols for victim identification, referral, and service delivery. A systemized
+approach will increase efficiency, improve data collection, and ensure victims receive the
+same level of high-quality support regardless of where they reside.
+●​ Structural Oversight and Supervision: The Office is currently evaluating the regional
+navigator program through ongoing meetings with navigators and a review of existing
+grants and outcomes. As part of this process, the Office is considering whether the
+current structure is the most effective for the program, or if a different model may be
+needed. Any restructuring would aim to ensure that regional navigators are fully
+equipped to deliver the services required and provide the strongest possible support to
+survivors and suspected victims of human trafficking.
+●​ Expected Outcomes
+○​ Increased accountability and transparency in RNPG operations.
+○​ More equitable distribution of funding to support direct victim services.
+○​ Streamlined, consistent practices across all jurisdictions.
+○​ Enhanced coordination between RNPG, the Office, and local partners.
+○​ Improved outcomes for trafficking victims through higher-quality, standardized
+support.
+Conclusion
+Given the State’s proximity to three major airports (Baltimore/Washington International
+Thurgood Marshall Airport, Dulles International Airport, and Reagan National Airport),
+inexpensive bus transportation, train service along the East Coast, large sporting events, casinos,
+large concerts and event venues, and pockets of both poverty and disposable income, Maryland
+remains a destination of interest for traffickers. In recent years, the growth of digital technology
+and widespread access to smartphones, gaming platforms, and social media has created new
+avenues for traffickers to exploit children online, increasing the number of cases that begin
+through digital devices. Additionally, Maryland has seen a rise in the identification of familial
+trafficking, particularly in rural areas where access to resources is limited and isolation makes
+detection more difficult.
+Because of these factors, the Office will continue to coordinate human trafficking efforts across
+the State by:
+●​ Improving enforcement efficacy through best-practice policies, supportive technologies,
+key partnerships, and data sharing;
+Page 15
+ ●​ Preventing future cases of human trafficking by addressing risk factors and root causes
+of victimization, including online exploitation, and working with law enforcement to
+reduce recidivism of traffickers;
+●​ Uplifting victim services that utilize best practices, trauma-informed care, and a
+research-based approach to meet the unique needs of victims, with increased attention to
+those impacted by familial trafficking, to enhance safety, self-sufficiency, and access to
+information; and
+●​ Ensuring Maryland’s regional navigators and other victim-serving partners have
+access to tools, funding, and resources needed to respond effectively to cases of both
+online and familial trafficking and to support recovery.
+The Office remains committed to strengthening Maryland’s response to human trafficking.
+Through key personnel within the Victim Services Unit, the Office will continue to advance
+Maryland’s efforts to combat human trafficking.
+Page 16
+
